@@ -1,9 +1,9 @@
-0. Agradecimientos.md
-0. Prefacio.md
-1. Comenzando.md
-2. Sintaxis.md
-3. Funciones, ambito y contexto.md
-4. Objetos y Arrays.md
-5. Clases.md
-6. Modulos.md
-7. Bibliografia.md
+0. Agradecimientos
+0. Prefacio
+1. Comenzando
+2. Sintaxis
+3. Funciones, ambito y contexto
+4. Objetos y Arrays
+5. Clases
+6. Modulos
+7. Bibliografia
